@@ -63,6 +63,9 @@ I've compiled a list of tools and resources that I used throughout the project. 
 * [Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291/ref=sr_1_fkmr0_4?s=books&ie=UTF8&qid=1470405642&sr=1-4-fkmr0&keywords=data+alanysis+in+python)
 
 
+### __Academic Papers:__
+
+* [Processing Named Entities in Text](http://www.jhuapl.edu/techdigest/TD/td3001/McNamee.pdf)
 
 
 ----
